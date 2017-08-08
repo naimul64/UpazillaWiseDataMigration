@@ -1,0 +1,1 @@
+SELECT * FROM upazilla where id in (%s)
